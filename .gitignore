@@ -1,0 +1,41 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.metadata/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode related
+.vscode/
+
+# Flutter repo-specific
+/pubspec.lock
+
+# Build
+build/
+*.dart_tool/
+*.packages
+.dart_tool/
+.packages
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.gr.dart
+*.pb.dart
+*.pbenum.dart
+*.pbserver.dart
+*/generated/**
+.generated/**
