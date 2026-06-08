@@ -80,6 +80,10 @@ lib/
 
 ## 📱 截图预览
 <img width="321" height="624" alt="截屏2026-06-08 下午11 12 39" src="https://github.com/user-attachments/assets/80a81cbe-5860-4699-8819-26b8107ef97d" />
+<img width="76" height="72" alt="截屏2026-06-08 下午11 18 26" src="https://github.com/user-attachments/assets/3d120b76-cd95-4f51-a224-f789e4638808" />
+<img width="356" height="555" alt="截屏2026-06-08 下午11 17 40" src="https://github.com/user-attachments/assets/bd8ff16c-63a3-40c9-8289-649ccffdec46" />
+<img width="318" height="613" alt="截屏2026-06-08 下午11 14 42" src="https://github.com/user-attachments/assets/d0d35299-047b-4255-b8c3-5afb9838e9be" />
+<img width="318" height="610" alt="截屏2026-06-08 下午11 14 31" src="https://github.com/user-attachments/assets/5f19bce9-aaa3-423a-b86f-0be47218b731" />
 
 
 
