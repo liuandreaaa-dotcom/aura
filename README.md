@@ -79,8 +79,9 @@ lib/
 | 本地化 | intl |
 
 ## 📱 截图预览
+<img width="321" height="624" alt="截屏2026-06-08 下午11 12 39" src="https://github.com/user-attachments/assets/80a81cbe-5860-4699-8819-26b8107ef97d" />
 
-_（待补充）_
+
 
 ## 📄 许可
 
